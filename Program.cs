@@ -11,7 +11,7 @@ namespace Queue
             q.enqueue(70);
            
             Console.WriteLine("Queue Front : " + q.front.key);
-            Console.WriteLine("Queue Rear : " + q.rear.key);
+      
         }
     }
 }
